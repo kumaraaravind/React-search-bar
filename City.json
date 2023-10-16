@@ -1,0 +1,64 @@
+
+
+[
+    {
+        "id": "1",
+        "name": "Hyderabad"
+    },
+    
+    {
+        "id": "2",
+        "name": "Kurnool"
+    },
+    
+    {
+        "id": "3",
+        "name": "Anathapure"
+    },
+    
+    {
+        "id": "4",
+        "name": "west godavari"
+    },
+    
+    {
+        "id": "5",
+        "name": "Vizag"
+    },
+    
+    {
+        "id": "6",
+        "name": "Guntur"
+    },
+    
+    {
+        "id": "7",
+        "name": "Vijayawada"
+    },
+    
+    {
+        "id": "8",
+        "name": "Ongole"
+    },
+    {
+        "id": "9",
+        "name": "East godavari"
+    },
+    {
+        "id": "10",
+        "name": "Nellore"
+    },
+    {
+        "id": "11",
+        "name": "Tirupathi"
+    },
+     {
+        "id":"12",
+        "name":"kadapa"
+     },  
+     {
+        "id":"13",
+        "name":"Viyayanagaram"
+     }       
+    
+]
